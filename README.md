@@ -51,6 +51,8 @@ git clone https://github.com/Rihan444/CCTV_HACKED
 
 cd CCTV_HACKED
 
+pip install -r requirements.txt
+
 python CCTV-Hacked.py
 ________________________________________________
 _______________________
